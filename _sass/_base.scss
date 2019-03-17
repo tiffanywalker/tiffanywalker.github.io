@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/ayalawide.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -167,7 +167,7 @@ header {
             h1 {
                 font-weight: 700;
                 text-transform: uppercase;
-                margin-top: 0;
+                margin-top: 600px;
                 margin-bottom: 0;
             }
             hr {
